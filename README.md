@@ -3,5 +3,6 @@ A weather application made using HTML,CSS,JAVA SCRIPT,RECST JS, WEATHER(API) tha
 <br>
 The api that use in the application is available on https://openweathermap.org/api
 <br>
-Author --> Aaryan sharma(M)
+Author --> Aaryan sharma(M) the author
 
+ther night be somr change
