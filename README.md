@@ -1,4 +1,4 @@
-A fully responsive weather application , which will tell about the real time weather of a entertd location
+A fully responsive weather application , which will tell about the real time weather of a entered location
 </br>
 along with the wind speed, humidity of the entered location
 </br>
