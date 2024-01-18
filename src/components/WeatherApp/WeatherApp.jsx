@@ -18,7 +18,7 @@ const WeatherApp = () => {
     const search = async () => {
         const ele = document.getElementsByClassName("city-input");
         if (ele[0].value === "") {
-            alert('Please enter the location first');
+            alert('Please enter the location first ....');
         }
         let url = `https://api.openweathermap.org/data/2.5/weather?q=${ele[0].value}&units=Metric&appid=${api_key}`;
         let variable = await fetch(url);
